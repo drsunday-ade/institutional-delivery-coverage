@@ -1,0 +1,2 @@
+spline_joint_p,n_spline_terms_tested,note
+NA,4,Spline joint test uses fixest::wald; p-value extracted from named vector element `p`.

@@ -1,0 +1,29 @@
+Deploy script started: 2026-03-05 00:35:37.91419 
+ROOT: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1 
+APP_DIR: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/shiny_app 
+APP_NAME: who-mmr-policy-explorer 
+ACCOUNT_NAME: setrojaboard 
+RUN_LOCAL: 0 
+
+App structure OK.
+Found PNGs: 5 
+
+Account info set for: setrojaboard 
+
+Starting deployment to shinyapps.io...
+Waiting for task: 1659671609
+  building: Building image: 14486290
+  building: Fetching packages
+  building: Installing packages
+  building: Installing files
+  building: Pushing image: 14486290
+  deploying: Starting instances
+  success: Stopping old instances
+Standard deployment succeeded. 
+
+Deployment finished successfully.
+In the Console output above, rsconnect usually prints the live URL.
+
+Saved sessionInfo to: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/logs/deploy_sessionInfo.txt 
+Saved deploy log to: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/logs/deploy_shinyapp_log.txt 
+Done.

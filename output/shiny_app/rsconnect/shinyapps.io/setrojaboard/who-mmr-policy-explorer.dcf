@@ -1,0 +1,10 @@
+name: who-mmr-policy-explorer
+title:
+username: setrojaboard
+account: setrojaboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16821466
+bundleId: 11665586
+url: https://setrojaboard.shinyapps.io/who-mmr-policy-explorer/
+version: 1

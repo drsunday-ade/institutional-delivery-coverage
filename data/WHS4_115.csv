@@ -1,0 +1,402 @@
+Id,IndicatorCode,SpatialDimension,SpatialDimensionValueCode,ParentLocationCode,ParentLocation,TimeDimension,TimeDim,DisaggregatingDimension1,DisaggregatingDimension1ValueCode,DisaggregatingDimension2,DisaggregatingDimension2ValueCode,DisaggregatingDimension3,DisaggregatingDimension3ValueCode,DataSourceDimension,DataSourceDimensionValueCode,Value,NumericValue,Low,High,Comments,Date,TimeDimensionValue,TimeDimensionBegin,TimeDimensionEnd
+5591146,WHS4_115,COUNTRY,AFG,EMR,Eastern Mediterranean,YEAR,2015,,,,,,,,,2.7,2.7,,,"DHS 2015.  Central Statistics Organization (CSO), Ministry of Public Health (MoPH), ICF. Afghanistan Demographic and Health Survey 2015. Kabul, Afghanistan: Central Statistics Organization; 2017.",2018-04-09T09:34:04Z,2010-2015,2010-01-01,2015-12-31
+5857652,WHS4_115,COUNTRY,LBN,EMR,Eastern Mediterranean,YEAR,2016,,,,,,,,,47.1,47.1,,,"Ministry of Public Health [Lebanon]; 2017.  Vital Data Observatory (VDO) statistics by Qada and nationality, 2016 [website]. Beirut: Ministry of Public Health [Lebanon]; 2017 (https://moph.gov.lb/en/Pages/8/327/#/en/Pages/8/14246/vital-data-observatory-statistics, accessed 30 November 2017).    ",2018-04-09T09:34:06Z,2016,2016-01-01,2016-12-31
+2889929,WHS4_115,COUNTRY,SAU,EMR,Eastern Mediterranean,YEAR,2016,,,,,,,,,30.2,30.2,,,Ministry of Health [Saudi Arabia]; 2017. Statistical Year Book Kingdom of Saudi Arabia 2016 G/1437 H. Riyadh: Ministry of Health [Saudi Arabia]; 2017.,2018-04-09T09:34:07Z,2016,2016-01-01,2016-12-31
+9948746,WHS4_115,COUNTRY,GIN,AFR,Africa,YEAR,2016,,,,,,,,,3.1,3.1,,,"MICS 2016. Institut National de la Statistique [Guinée], Fonds des Nations Unies pour l'Enfance (UNICEF), USAID, le Fonds mondial [the Global Fund], Fonds des Nations Unies pour la Population (FNUAP/UNFPA), Programme des Nations Unies pour le développement (PNUD/UNDP). Enquête par grappes à indicateurs multiples (MICS 2016), Rapport final. Conakry: Institut National de la Statistique [Guinée]; 2017 (in French).",2018-04-09T09:34:06Z,2014-2016,2014-01-01,2016-12-31
+9739429,WHS4_115,COUNTRY,COL,AMR,Americas,YEAR,2016,,,,,,,,,45.8,45.8,,,"DANE [Colombia]. Estadísticas Vitales 2016; 2017. 
+ DANE [online database]. Estadísticas Vitales – Nacimientos por tipo de parto, según departamento de residencia de la madre y multiplicidad del embarazo. 2016. Bogotá D.C.: Departamento Administrativo Nacional de Estadística (DANE); 2017 (http://www.dane.gov.com, accessed 31 October 2017, in Spanish).  ",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+6561454,WHS4_115,COUNTRY,TJK,EUR,Europe,YEAR,2012,,,,,,,,,4.0,4,,,"DHS 2012. 
+ Statistical Agency under the President of the Republic of Tajikistan (SA), Ministry of Health [Tajikistan], ICF International. Tajikistan Demographic and Health Survey 2012. Dushanbe, Tajikistan, Calverton, Maryland, USA: SA, MOH, ICF International; 2013.
+",2018-04-09T09:34:08Z,2007-2012,2007-01-01,2012-12-31
+6307623,WHS4_115,COUNTRY,ESP,EUR,Europe,YEAR,2014,,,,,,,,,27.3,27.3,,,"Instituto Nacional Estadística [National Statistics Institute, Spain]; 2016. Nacimientos. Año 2014. Nacimientos por tipo de parto y orden del nacimiento 
+[Births. Year 2013. Births by type of delivery and order of birth] [online database]. Madrid: Instituto Nacional Estadística [National Statistics Institute, Spain]; 2016 (http://www.ine.es/jaxi/Datos.htm?type=pcaxis&path=/t20/e301/nacim/a2014/l1/&file=01018.px, accessed 3 August 2016, in Spanish). 
+",2018-04-09T09:34:07Z,2014,2014-01-01,2014-12-31
+1525335,WHS4_115,COUNTRY,BGD,SEAR,South-East Asia,YEAR,2016,,,,,,,,,30.7,30.7,,,"National Institute of Population Research and Training (NIPORT), International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b) , MEASURE Evaluation; 2017.  Bangladesh Maternal Mortality and Health Care Survey 2016: Preliminary Report. Dhaka and Chapel Hill: National Institute of Population Research and Training (NIPORT), International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), MEASURE Evaluation; 2017. ",2018-04-09T09:34:04Z,2013-2016,2013-01-01,2016-12-31
+1645839,WHS4_115,COUNTRY,CAN,AMR,Americas,YEAR,2015,,,,,,,,,27.9,27.9,,,"Canadian Institute for Health Information (CIHI); 2017. Health Indicators Interactive Tool. Health System Performance. 2015. Caesarean Section-2015-Percent [database]. Ottawa: Canadian Institute for Health Information (CIHI); 2017 (http://yourhealthsystem.cihi.ca/epub/SearchServlet, accessed on 22 December 2017). ",2018-04-09T09:34:05Z,2015,2015-01-01,2015-12-31
+6802790,WHS4_115,COUNTRY,BHR,EMR,Eastern Mediterranean,YEAR,2015,,,,,,,,,28.0,28,,,Ministry of Health [Bahrain]; 2016. Health Statistics of 2015. Bahrain: Ministry of Health; 2016.,2018-04-09T09:34:04Z,2015,2015-01-01,2015-12-31
+3283462,WHS4_115,COUNTRY,BLR,EUR,Europe,YEAR,2014,,,,,,,,,27.1,27.1,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016.  European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).",2018-04-09T09:34:04Z,2014,2014-01-01,2014-12-31
+9352848,WHS4_115,COUNTRY,ZMB,AFR,Africa,YEAR,2014,,,,,,,,,4.4,4.4,,,"DHS 2013-14. 
+ Central Statistical Office (CSO) [Zambia], Ministry of Health (MOH) [Zambia], ICF International. Zambia Demographic and Health Survey 2013-14. Rockville, Maryland, USA: Central Statistical Office, Ministry of Health, ICF International; 2015.
+",2018-04-09T09:34:08Z,2008-2014,2008-01-01,2014-12-31
+7932383,WHS4_115,COUNTRY,PRY,AMR,Americas,YEAR,2016,,,,,,,,,45.9,45.9,,,"MICS 2016. Encuesta de Indicadores Múltiples por Conglomerados - MICS Paraguay 2016. Fernando de la Mora: Dirección General de Estadística, Encuestas y Censos, Ministerio de Salud Pública Y Bienestar Social, Ministerio de la Secretaria Técnica de Planificación del Desarrollo Económico y Social, Fondo de las Naciones Unidas para la Infancia (UNICEF), Banco Interamericano de Desarrollo (BID), ERSSAN; 2017 (in Spanish). 
+",2018-04-09T09:34:07Z,2014-2016,2014-01-01,2016-12-31
+313782,WHS4_115,COUNTRY,CZE,EUR,Europe,YEAR,2012,,,,,,,,,25.9,25.9,,,"Ústav zdravotnických informací a statistiky ČR [Czech Republic]; 2013.
+ Rodička a novorozenec 2012 [Mother and Newborn 2012]. Prague: Ústav zdravotnických informací a statistiky ČR [Institute of Health Information and Statistics of the Czech Republic]; 2013 (in Czech).
+",2018-04-09T09:34:05Z,2012,2012-01-01,2012-12-31
+2985069,WHS4_115,COUNTRY,NIC,AMR,Americas,YEAR,2012,,,,,,,,,29.7,29.7,,,"DHS 2011-12.  Encuesta Nicaragüense de Demografía y Salud (ENDESA) 2011/12. Informe Preliminar. Managua; Instituto Nacional de Información de Desarrollo (INIDE), Ministerio de Salud [Nicaragua]; 2013 (in Spanish).
+",2018-04-09T09:34:07Z,2006-2012,2006-01-01,2012-12-31
+8825992,WHS4_115,COUNTRY,ARG,AMR,Americas,YEAR,2011,,,,,,,,,29.1,29.1,,,"Organización Panamericana de la Salud (OPS); Ministerio de Salud de la Nación [Argentina]; 2013. Karolinski A, Mercer R, Salgado P, Ocampo C, Bolzán A, Nieto R et al. Primer informe nacional de relevamiento epidemiológico SIP-Gestión: Desarrollo e implementación a escala nacional de un sistema de información en salud de la mujer y perinatal en Argentina. Buenos Aires: Organización Panamericana de la Salud (OPS); Ministerio de Salud de la Nación [Argentina]; 2013 (in Spanish).",2018-04-09T09:34:04Z,2011,2011-01-01,2011-12-31
+2484281,WHS4_115,COUNTRY,UGA,AFR,Africa,YEAR,2011,,,,,,,,,5.3,5.3,,,"DHS 2011. 
+ Uganda Bureau of Statistics (UBOS), ICF International. Uganda Demographic and Health Survey 2011. Kampala, Uganda: UBOS, ICF International; 2012.
+",2018-04-09T09:34:08Z,2006-2011,2006-01-01,2011-12-31
+3556285,WHS4_115,COUNTRY,GNQ,AFR,Africa,YEAR,2011,,,,,,,,,6.6,6.6,,,"DHS 2011. 
+ Ministerio de Sanidad y Bienestar Social, Ministerio de Economía, Planificación e Inversiones Públicas, ICF International. Encuesta Demográfica y de Salud (EDSGE-I) 2011. Calverton, Maryland, USA; 2012 (in Spanish).
+",2018-04-09T09:34:05Z,2006-2011,2006-01-01,2011-12-31
+1367074,WHS4_115,COUNTRY,BRA,AMR,Americas,YEAR,2015,,,,,,,,,55.5,55.5,,,"DATASUS, MS/SVS/DASIS [Brazil]. Período: 2015; 2017. DATASUS [online database]. Brazil: MS/SVS/DASIS - Sistema de Informações sobre Nacidos Vivos – SINASC. Nascim p/ocorrênc por Tipo de parto Segundo Região. Período: 2015; 2017 (http://tabnet.datasus.gov.br/cgi/deftohtm.exe? sinasc/cnv/nvuf.def, accessed 2017, in Portuguese).",2018-04-09T09:34:05Z,2015,2015-01-01,2015-12-31
+8204899,WHS4_115,COUNTRY,DJI,EMR,Eastern Mediterranean,YEAR,2012,,,,,,,,,11.0,11,,,"Ministère de la Santé Djibouti, Direction de la Statistique et des Etudes Démographiques Djibouti, Ligue des États Arabes; 2012.
+ Deuxième Enquête Djiboutienne sur la Santé de la Famille (EDSF/PAPFAM 2 – 2012). Le Caire: Ministère de la Santé Djibouti, Direction de la Statistique et des Etudes Démographiques Djibouti, Ligue des États Arabes (Projet Pan Arabe sur la Santé de la Famille); 2012 (in French). 
+",2018-04-09T09:34:05Z,2007-2012,2007-01-01,2012-12-31
+4767699,WHS4_115,COUNTRY,LVA,EUR,Europe,YEAR,2016,,,,,,,,,21.7,21.7,,,"The Centre for Disease Prevention and Control of Latvia; 2017.
+ Statistical Yearbook of Health Care in Latvia 18th edition, 2016. Riga: The Centre for Disease Prevention and Control of Latvia; 2017.
+",2018-04-09T09:34:06Z,2016,2016-01-01,2016-12-31
+5103483,WHS4_115,COUNTRY,ALB,EUR,Europe,YEAR,2013,,,,,,,,,34.1,34.08,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016.  European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).",2018-04-09T09:34:04Z,2013,2013-01-01,2013-12-31
+3835507,WHS4_115,COUNTRY,SRB,EUR,Europe,YEAR,2014,,,,,,,,,28.8,28.8,,,"MICS 2014. 
+ Statistical Office of the Republic of Serbia, UNICEF. Serbia Multiple Indicator Cluster Survey and Serbia Roma Settlements Multiple Indicator Cluster Survey, 2014, Final Report. Belgrade, Serbia: Statistical Office of the Republic of Serbia, UNICEF; 2014.
+",2018-04-09T09:34:07Z,2012-2014,2012-01-01,2014-12-31
+8813548,WHS4_115,COUNTRY,LCA,AMR,Americas,YEAR,2012,,,,,,,,,18.5,18.5,,,"MICS 2012. 
+ Ministry of Social Transformation, Local Government and Community Empowerment, Central Statistics Office, United Nations Children’s Fund (UNICEF). Saint Lucia Multiple Indicator Cluster Survey 2012: Final Report. Castries, Saint Lucia: Ministry of Social Transformation, Local Government and Community Empowerment, Central Statistics Office, United Nations Children’s Fund (UNICEF); 2014.
+",2018-04-09T09:34:07Z,2010-2012,2010-01-01,2012-12-31
+1849561,WHS4_115,COUNTRY,SWZ,AFR,Africa,YEAR,2014,,,,,,,,,11.6,11.6,,,"MICS 2014. 
+ Central Statistical Office, United Nation's Childrens Fund (UNICEF).  Swaziland Multiple Indicator Cluster Survey 2014. Final Report. Mbabane, Swaziland: Central Statistical Office, UNICEF; 2016.
+",2018-04-09T09:34:08Z,2012-2014,2012-01-01,2014-12-31
+2109814,WHS4_115,COUNTRY,PAN,AMR,Americas,YEAR,2013,,,,,,,,,27.7,27.7,,,"MICS 2013. 
+ Contraloría General de la República, Fondo de las Naciones Unidas para la Infancia (UNICEF). Encuesta de Indicadores Múltiples por Conglomerados de Panamá 2013, Resultados Principales Panamá. Panamá: Contraloría General; 2014 (in Spanish).
+",2018-04-09T09:34:07Z,2011-2013,2011-01-01,2013-12-31
+4348957,WHS4_115,COUNTRY,UZB,EUR,Europe,YEAR,2015,,,,,,,,,13.6,13.6,,,"UNICEF CRING: Uzbekistan; 2015. 
+ UNICEF CRING: Uzbekistan; 2015. 
+",2018-04-09T09:34:08Z,2015,2015-01-01,2015-12-31
+2592600,WHS4_115,COUNTRY,UKR,EUR,Europe,YEAR,2012,,,,,,,,,12.1,12.1,,,"MICS 2012. 
+ State Statistics Service, Ukrainian Center for Social Reforms, United Nations Children's Fund (UNICEF). Ukraine Multiple Indicator Cluster Survey 2012, Final Report. Kiev, Ukraine: State Statistics Committee, the Ukrainian Center for Social Reforms; 2013.
+",2018-04-09T09:34:08Z,2010-2012,2010-01-01,2012-12-31
+834394,WHS4_115,COUNTRY,AGO,AFR,Africa,YEAR,2016,,,,,,,,,3.7,3.7,,,"DHS 2015-2016.  Instituto Nacional de Estatística (INE), Ministério da Saúde (MINSA), Ministério do Planeamento e do Desenvolvimento Territorial (MINPLAN), ICF. Inquérito de Indicadores Múltiplos e de Saúde em Angola 2015-2016. Luanda, Angola e Rockville, Maryland, EUA: INE, MINSA, MINPLAN, ICF; 2017 (in Portuguese). ",2018-04-09T09:34:04Z,2010-2016,2010-01-01,2016-12-31
+6987148,WHS4_115,COUNTRY,ARM,EUR,Europe,YEAR,2016,,,,,,,,,18.0,18,,,"DHS 2015-2016.  National Statistical Service [Armenia], Ministry of Health [Armenia], ICF. Armenia Demographic and Health Survey 2015-16. Rockville, Maryland, USA: National Statistical Service, Ministry of Health, ICF; 2017.",2018-04-09T09:34:04Z,2010-2016,2010-01-01,2016-12-31
+2357934,WHS4_115,COUNTRY,MOZ,AFR,Africa,YEAR,2011,,,,,,,,,3.9,3.9,,,"DHS 2011. 
+ Ministerio da Saude - MISAU [Moçambique], Instituto Nacional de Estatística - INE [Moçambique], ICF International. Moçambique Inquérito Demográfico e de Saúde 2011. Calverton, Maryland, USA: MISA [Moçambique], INE [Moçambique], ICF International; 2013 (in Portuguese).
+",2018-04-09T09:34:07Z,2006-2011,2006-01-01,2011-12-31
+2884691,WHS4_115,COUNTRY,COM,AFR,Africa,YEAR,2012,,,,,,,,,9.6,9.6,,,"MICS 2012. 
+ Direction Générale de la Statistique et de la Prospective (DGSP) et ICF International. Enquête Démographique et de Santé et à Indicateurs Multiples aux Comores 2012. Rockville, MD 20850 USA : DGSP et ICF International; 2014 (in French).
+",2018-04-09T09:34:05Z,2007-2012,2007-01-01,2012-12-31
+4134256,WHS4_115,COUNTRY,SVN,EUR,Europe,YEAR,2012,,,,,,,,,18.9,18.9,,,"Inštitut za varovanje zdravja Republike Slovenije [National Institute of Public Health, Slovenia]; 2014.
+
+ Perinatalni informacijski sistem Republike Slovenije. Primerjava podatkov med regijami za leto 2012 [Perinatal Information System of the Republic of Slovenia. Comparison of data between regions for the year 2012]. Ljubljana: Inštitut za varovanje zdravja Republike Slovenije [National Institute of Public Health, Republic of Slovenia]; 2014 (in Slovene).
+
+",2018-04-09T09:34:07Z,2012,2012-01-01,2012-12-31
+6549822,WHS4_115,COUNTRY,BTN,SEAR,South-East Asia,YEAR,2010,,,,,,,,,12.4,12.4,,,"MICS 2010.  National Statistics Bureau, Bhutan, United Nations Children's Fund (UNICEF), United Nations Population Fund (UNFPA). Bhutan Multiple Indicator Survey 2010. Thrimphu, Bhutan: National Statistics Bureau; 2011.",2018-04-09T09:34:05Z,2008-2010,2008-01-01,2010-12-31
+2326206,WHS4_115,COUNTRY,TON,WPR,Western Pacific,YEAR,2012,,,,,,,,,17.4,17.4,,,"DHS 2012. 
+ Tonga Department of Statistics and Tonga Ministry of Health, Secretariat of the Pacific Community (SPC), United Nations Population Fund (UNFPA). Tonga Demographic and Health Survey 2012. Final Report. Noumea: SPC; 2013.
+",2018-04-09T09:34:08Z,2007-2012,2007-01-01,2012-12-31
+2205573,WHS4_115,COUNTRY,VUT,WPR,Western Pacific,YEAR,2013,,,,,,,,,11.9,11.9,,,"DHS 2013. 
+ Vanuatu Ministry of Health, Vanuatu National Statistics Office, Secretariat of the Pacific Community (SPC). Vanuatu Demographic and Health Survey 2013. Final Report. Noumea: SPC; 2014.
+",2018-04-09T09:34:08Z,2008-2013,2008-01-01,2013-12-31
+7025639,WHS4_115,COUNTRY,POL,EUR,Europe,YEAR,2014,,,,,,,,,35.6,35.6,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016. 
+ European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).
+",2018-04-09T09:34:07Z,2014,2014-01-01,2014-12-31
+1266357,WHS4_115,COUNTRY,KIR,WPR,Western Pacific,YEAR,2009,,,,,,,,,9.6,9.6,,,"DHS 2009. 
+ Kiribati National Statistics Office (KNSO), Secretariat of the Pacific Community (SPC) [New Caledonia]. Kiribati Demographic and Health Survey 2009. Noumea: SPC; 2010.
+",2018-04-09T09:34:06Z,2004-2009,2004-01-01,2009-12-31
+5307150,WHS4_115,COUNTRY,USA,AMR,Americas,YEAR,2015,,,,,,,,,32.0,32,,,"National Center for Health Statistics [USA]; 2017.
+ Martin JA, Hamilton BE, Osterman MJK, Driscoll AK, Mathews TJ. Births: Final Data for 2015. National Vital Statistics Reports; vol 66, no 1. Hyattsville, MD: National Center for Health Statistics; 2017.
+",2018-04-09T09:34:08Z,2015,2015-01-01,2015-12-31
+5953982,WHS4_115,COUNTRY,FRA,EUR,Europe,YEAR,2016,,,,,,,,,19.6,19.6,,,"Institut National de la santé et de la recherche médicale (INSERM) [France], Direction de la recherche, des études, de l’évaluation et des statistiques (DREES) [France]; 2017. Enquête nationale périnatale Rapport 2016. Les naissances et les établissements. Situation et évaluation depuis 2010. Paris: Institut National de la santé et de la recherche médicale (INSERM), Direction de la recherche, des études, de l’évaluation et des statistiques, Ministère de l'Emploi et de la solidarité (DREES); 2017 (in French).",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+9240003,WHS4_115,COUNTRY,KHM,WPR,Western Pacific,YEAR,2014,,,,,,,,,6.3,6.3,,,"DHS 2014. National Institute of Statistics, Directorate General for Health, ICF International. Cambodia Demographic and Health Survey 2014. Phnom Penh, Cambodia, and Rockville, Maryland, USA: National Institute of Statistics, Directorate General for Health, ICF International; 2015.",2018-04-09T09:34:05Z,2009-2014,2009-01-01,2014-12-31
+1145880,WHS4_115,COUNTRY,NLD,EUR,Europe,YEAR,2015,,,,,,,,,16.6,16.6,,,Perined [Netherlands]; 2016. Perinatale Zorg in Nederland 2015. Utrecht: Perined; 2016 (in Dutch). ,2018-04-09T09:34:07Z,2015,2015-01-01,2015-12-31
+1932879,WHS4_115,COUNTRY,KAZ,EUR,Europe,YEAR,2015,,,,,,,,,14.8,14.8,,,"MICS 2015. 
+ The Statistics Committee of the Ministry of National Economy of the Republic of Kazakhstan (Statistics Committee of the MNE RK), the United Nations Children’s Fund (UNICEF), the United Nations Population Fund (UNFPA). 2015 Kazakhstan Multiple Indicator Cluster Survey, Final Report. Astana, Kazakhstan: The Statistics Committee of the MNE RK, UNICEF, UNFPA; 2016.
+",2018-04-09T09:34:06Z,2013-2015,2013-01-01,2015-12-31
+2167683,WHS4_115,COUNTRY,EST,EUR,Europe,YEAR,2016,,,,,,,,,20.3,20.3,,,"National Institute for Health Development [Estonia]; 2017.
+ Estonian Medical Birth Registry (EMBR). Mode of delivery, 1992-2016 [website]. Tallinn: National Institute for Health Development, Estonia; 2017 (http://www.tai.ee/en/r-and-d/registers/estonian-medical-birth-registry-and-estonian-abortion-registry/statistics, accessed 2 November 2017). ",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+1139634,WHS4_115,COUNTRY,AUS,WPR,Western Pacific,YEAR,2015,,,,,,,,,33.3,33.3,,,"Australian Institute of Health and Welfare (AIHW); 2017.
+ Australia’s mothers and babies 2015—in brief. Perinatal statistics series no. 33. Cat no. PER 91. Canberra: Australian Institute of Health and Welfare (AIHW); 2017.
+",2018-04-09T09:34:04Z,2015,2015-01-01,2015-12-31
+8402398,WHS4_115,COUNTRY,ROU,EUR,Europe,YEAR,2013,,,,,,,,,40.1,40.13,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2015. 
+ European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2015 (http://data.euro.who.int/hfadb, accessed 21 October 2015).
+",2018-04-09T09:34:07Z,2013,2013-01-01,2013-12-31
+480046,WHS4_115,COUNTRY,NAM,AFR,Africa,YEAR,2013,,,,,,,,,14.4,14.4,,,"DHS 2013. 
+ The Namibia Ministry of Health and Social Services (MoHSS), ICF International. The Namibia Demographic and Health Survey 2013. Windhoek, Namibia, Rockville, Maryland, USA: MoHSS, ICF International; 2014.
+",2018-04-09T09:34:07Z,2008-2013,2008-01-01,2013-12-31
+7178367,WHS4_115,COUNTRY,FIN,EUR,Europe,YEAR,2016,,,,,,,,,16.4,16.4,,,"National Institute for Health and Welfare (THL) [Finland]; 2017.
+ Perinataalitilasto - synnyttäjät, synnytykset ja vastasyntyneet 2016 [Perinatal statistics: parturients, deliveries and newborns 2016]. [Statistical report] 37/2017. Helsinki: Terveyden ja Hyvinvoinnin Laitos/National Institute for Health and Welfare (THL), Finland; 2017 (in Finnish).
+",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+6176215,WHS4_115,COUNTRY,TUR,EUR,Europe,YEAR,2013,,,,,,,,,48.1,48.1,,,"DHS 2013. 
+ Hacettepe University Institute of Population Studies. 2013 Turkey Demographic and Health Survey. Ankara, Turkey: Hacettepe University Institute of Population Studies, T.R. Ministry of Development, TÜBİTAK; 2014.
+",2018-04-09T09:34:08Z,2008-2013,2008-01-01,2013-12-31
+4635543,WHS4_115,COUNTRY,MEX,AMR,Americas,YEAR,2015,,,,,,,,,40.7,40.7,,,"MICS 2015. 
+ Instituto Nacional de Salud Pública, Fondo de las Naciones Unidas para la Infancia (UNICEF) México. Encuesta Nacional de Niños, Niñas y Mujeres 2015 - Encuesta de Indicadores Múltiples por
+Conglomerados 2015, Informe Final. Ciudad de México, México: Instituto Nacional de Salud Pública, UNICEF México; 2016 (in Spanish).
+",2018-04-09T09:34:06Z,2013-2015,2013-01-01,2015-12-31
+5859328,WHS4_115,COUNTRY,BDI,AFR,Africa,YEAR,2010,,,,,,,,,4.0,4,,,"DHS 2010.  Institut de Statistiques et d’Études Économiques du Burundi (ISTEEBU), Ministère de la Santé Publique et de la Lutte contre le Sida [Burundi] (MSPLS), ICF International. Enquête Démographique et de Santé Burundi 2010. Bujumbura, Burundi : ISTEEBU, MSPLS, ICF International; 2012 (in French).",2018-04-09T09:34:05Z,2005-2010,2005-01-01,2010-12-31
+251756,WHS4_115,COUNTRY,GEO,EUR,Europe,YEAR,2015,,,,,,,,,41.4,41.4,,,"Ministry of Labour, Health and Social Affairs of Georgia; 2016.
+ Health Care, Statistical Yearbook 2015 Georgia. Tbilisi: Ministry of Labour, Health and Social Affairs of Georgia, National Centre for Disease Control and Public Health; 2016.
+",2018-04-09T09:34:05Z,2015,2015-01-01,2015-12-31
+4775221,WHS4_115,COUNTRY,TTO,AMR,Americas,YEAR,2007,,,,,,,,,18.4,18.4,,,"Mungrue K, Nixon C, David Y, Dookwah D, Durga S, Greene K et al; 2010. Mungrue K, Nixon C, David Y, Dookwah D, Durga S, Greene K et al. Trinidadian women’s knowledge, perceptions, and preferences regarding cesarean section: How do they make choices? Int J Womens Health. 2010;2:387-91.",2018-04-09T09:34:08Z,2007,2007-01-01,2007-12-31
+8611819,WHS4_115,COUNTRY,CHL,AMR,Americas,YEAR,2012,,,,,,,,,49.6,49.6,,,"Centro Micro Datos, Departamento de Economía, Universidad de Chile; 2013.  Segunda ronda encuesta longitudinal de la primera infancia. Informe resultados encuesta. Santiago: Centro Micro Datos, Departamento de Economía, Universidad de Chile; 2013 (in Spanish). ",2018-04-09T09:34:05Z,2012,2012-01-01,2012-12-31
+2713984,WHS4_115,COUNTRY,DNK,EUR,Europe,YEAR,2016,,,,,,,,,19.5,19.5,,,"Sundhedsdatastyrelsen [Denmark]; 2018. 
+ Det Medicinske Fødselsregister (MFR), MFR-kuben, Institutional deliveries [online database]. Copenhagen: Sundhedsdatastyrelsen [National Board of Health Data, Denmark]; 2018 (http://www.esundhed.dk/sundhedsregistre/MFR/Sider/MFR06A.aspx, accessed 7 January 2018, in Danish).",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+6296696,WHS4_115,COUNTRY,MHL,WPR,Western Pacific,YEAR,2007,,,,,,,,,9.3,9.3,,,"DHS 2007. 
+ Economic Policy, Planning and Statistics Office (EPPSO) [Marshall Islands], Secretariat of the Pacific Community (SPC), Macro International Inc. Republic of the Marshall Islands Demographic and Health Survey 2007. Noumea: SPC; 2008.
+",2018-04-09T09:34:06Z,2002-2007,2002-01-01,2007-12-31
+7927635,WHS4_115,COUNTRY,TGO,AFR,Africa,YEAR,2014,,,,,,,,,6.5,6.5,,,"DHS 2013-2014. 
+ Ministère de la Planification, du Développement et de l’Aménagement du Territoire (MPDAT), Ministère de la Santé (MS), ICF International. Enquête Démographique et de Santé au Togo 2013-2014. Rockville, Maryland, USA : MPDAT, MS, ICF International; 2015 (in French).
+",2018-04-09T09:34:08Z,2008-2014,2008-01-01,2014-12-31
+3576768,WHS4_115,COUNTRY,MUS,AFR,Africa,YEAR,2016,,,,,,,,,45.4,45.4,,,"Health Statistics Unit, Ministry of Health and Quality of Life [Mauritius]; 2017. 
+ Health Statistics Report 2016. Island of Mauritius and Island of Rodrigues. Port Louis: Health Statistics Unit, Ministry of Health and Quality of Life [Mauritius]; 2017. 
+",2018-04-09T09:34:06Z,2016,2016-01-01,2016-12-31
+829185,WHS4_115,COUNTRY,MNE,EUR,Europe,YEAR,2013,,,,,,,,,19.9,19.9,,,"MICS 2013. 
+ Statistical Office of Montenegro (MONSTAT), United Nations Children's Fund (UNICEF). 2013 Montenegro Multiple Indicator Cluster Survey and 2013 Montenegro Roma Settlements Multiple Indicator Cluster Survey, Final Report. Podgorica, Montenegro: Statistical Office of Montenegro (MONSTAT), UNICEF; 2014.
+",2018-04-09T09:34:06Z,2011-2013,2011-01-01,2013-12-31
+5904075,WHS4_115,COUNTRY,LBR,AFR,Africa,YEAR,2013,,,,,,,,,3.9,3.9,,,"DHS 2013. 
+ Liberia Institute of Statistics and Geo-Information Services (LISGIS), Ministry of Health and Social Welfare [Liberia], National AIDS Control Program [Liberia], ICF International. Liberia Demographic and Health Survey 2013. Monrovia, Liberia: Liberia Institute of Statistics and Geo- Information Services (LISGIS), ICF International; 2014.
+",2018-04-09T09:34:06Z,2008-2013,2008-01-01,2013-12-31
+3786441,WHS4_115,COUNTRY,CHE,EUR,Europe,YEAR,2015,,,,,,,,,33.3,33.3,,,"Bundesamt für Statistik (BFS) [Federal Statistical Office, Switzerland]; 2017. Medizinische Statistik der Krankenhäuser. Anzahl Kaiserschnitte an Entbindungen, Erhebungsjahr 2015 [online database]. Neuchâtel: Bundesamt für Statistik (BFS) [Federal Statistical Office, Switzerland]; 2017 (http://bfs.admin.ch/bfs/portal/de, accessed 19 December 2017, in German).",2018-04-09T09:34:08Z,2015,2015-01-01,2015-12-31
+5739140,WHS4_115,COUNTRY,PHL,WPR,Western Pacific,YEAR,2013,,,,,,,,,9.3,9.3,,,"DHS 2013. 
+ Philippine Statistics Authority (PSA) [Philippines], ICF International. Philippines National Demographic and Health Survey 2013. Manila, Philippines, and Rockville, Maryland, USA: PSA, ICF International; 2014.
+",2018-04-09T09:34:07Z,2008-2013,2008-01-01,2013-12-31
+9037470,WHS4_115,COUNTRY,IDN,SEAR,South-East Asia,YEAR,2012,,,,,,,,,12.3,12.3,,,"DHS 2012. 
+ Statistics Indonesia (Badan Pusat Statistik—BPS), National Population and Family Planning Board (BKKBN), Kementerian Kesehatan (Kemenkes—MOH),ICF International. Indonesia Demographic and Health Survey 2012. Jakarta, Indonesia: BPS, BKKBN, Kemenkes, ICF International; 2013.
+",2018-04-09T09:34:06Z,2007-2012,2007-01-01,2012-12-31
+5796278,WHS4_115,COUNTRY,CUB,AMR,Americas,YEAR,2014,,,,,,,,,40.4,40.4,,,"MICS 2014.
+ Dirección de Registros Médicos y Estadísticas de Salud, Ministerio de Salud Pública, Fondo de las Naciones Unidas para la Infancia (UNICEF). Encuesta de Indicadores Múltiples por Conglomerados. Cuba, 2014. Informe final. La Habana, Cuba; 2015 (in Spanish).
+",2018-04-09T09:34:05Z,2012-2014,2012-01-01,2014-12-31
+4489851,WHS4_115,COUNTRY,NRU,WPR,Western Pacific,YEAR,2007,,,,,,,,,7.5,7.5,,,"DHS 2007. 
+ Nauru Bureau of Statistics, Secretariat of the Pacific Community (SPC), Macro International Inc. Nauru 2007 Demographic and Health Survey. Noumea: SPC; 2009.
+",2018-04-09T09:34:07Z,2002-2007,2002-01-01,2007-12-31
+2784052,WHS4_115,COUNTRY,ETH,AFR,Africa,YEAR,2016,,,,,,,,,1.9,1.9,,,"DHS 2016. 
+ Central Statistical Agency (CSA) [Ethiopia], ICF. Ethiopia Demographic and Health Survey 2016. Addis Ababa, Ethiopia, and Rockville, Maryland, USA: CSA , ICF; 2016. 
+",2018-04-09T09:34:05Z,2011-2016,2011-01-01,2016-12-31
+7654690,WHS4_115,COUNTRY,HUN,EUR,Europe,YEAR,2014,,,,,,,,,36.4,36.4,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016. 
+ European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).
+",2018-04-09T09:34:06Z,2014,2014-01-01,2014-12-31
+1000816,WHS4_115,COUNTRY,COG,AFR,Africa,YEAR,2015,,,,,,,,,4.9,4.9,,,"MICS 2014-2015.
+ Institut National de la Statistique (INS), Fonds des Nations Unies pour l'Enfance (UNICEF). Enquête par grappes à indicateurs multiples, MICS5 Congo 2014-2015, Rapport Final. Brazzaville, Congo: INS, UNICEF; 2015 (in French).
+",2018-04-09T09:34:05Z,2012-2015,2012-01-01,2015-12-31
+8276390,WHS4_115,COUNTRY,SSD,AFR,Africa,YEAR,2010,,,,,,,,,<1.0,,,,"National Bureau of Statistics, Ministry of Health; 2012.
+ The Republic of South Sudan: The Sudan Household Health Survey 2010. South Sudan: National Bureau of Statistics, Ministry of Health; 2012.
+",2018-04-09T09:34:07Z,2008-2010,2008-01-01,2010-12-31
+5130596,WHS4_115,COUNTRY,MCO,EUR,Europe,YEAR,2015,,,,,,,,,20.6,20.6,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016. 
+ European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).
+",2018-04-09T09:34:06Z,2015,2015-01-01,2015-12-31
+632865,WHS4_115,COUNTRY,TLS,SEAR,South-East Asia,YEAR,2010,,,,,,,,,1.7,1.7,,,"DHS 2009-10.
+ National Statistics Directorate (NSD) [Timor-Leste], Ministry of Finance [Timor-Leste], ICF Macro. Timor-Leste Demographic and Health Survey 2009-10. Dili, Timor-Leste: NSD [Timor-Leste], ICF Macro; 2010.
+",2018-04-09T09:34:08Z,2004-2010,2004-01-01,2010-12-31
+9805198,WHS4_115,COUNTRY,NZL,WPR,Western Pacific,YEAR,2015,,,,,,,,,25.5,25.5,,,"Ministry of Health [New Zealand]; 2017. Report on Maternity 2015. Accompanying tables: Labour and Birth: type of birth. Table 33: Number and percentage of women giving birth, by type of birth, 2006-2015. Wellington: Ministry of Health [New Zealand]; 2017.",2018-04-09T09:34:07Z,2015,2015-01-01,2015-12-31
+1324573,WHS4_115,COUNTRY,MYS,WPR,Western Pacific,YEAR,2006,,,,,,,,,15.7,15.7,,,Ravindran J. Med J Malaysia; 2008. Ravindran J. Rising Caesarean Section Rates in Public Hospitals in Malaysia 2006. Med J Malaysia. 2008;63(5):434-5.,2018-04-09T09:34:06Z,2006,2006-01-01,2006-12-31
+6392379,WHS4_115,COUNTRY,CYP,EUR,Europe,YEAR,2015,,,,,,,,,56.9,56.9,,,"Ministry of Health of the Republic of Cyprus; 2017.
+ Cyprus Public and Private Maternity Units. Important Perinatal Health Indicators for the Year 2015. Nicosia: Ministry of Health of the Republic of Cyprus; 2017.
+",2018-04-09T09:34:05Z,2015,2015-01-01,2015-12-31
+8536527,WHS4_115,COUNTRY,JOR,EMR,Eastern Mediterranean,YEAR,2012,,,,,,,,,28.0,28,,,"DHS 2012. 
+ Department of Statistics [Jordan], ICF International. Jordan Population and Family Health Survey 2012. Calverton, Maryland, USA: Department of Statistics, ICF International; 2013.
+",2018-04-09T09:34:06Z,2007-2012,2007-01-01,2012-12-31
+6500356,WHS4_115,COUNTRY,VNM,WPR,Western Pacific,YEAR,2014,,,,,,,,,27.5,27.5,,,"MICS 2014. 
+ General Statistics Office (GSO), United Nations Children's Fund (UNICEF). Viet Nam Multiple Indicator Cluster Survey 2014, Final Report. Ha Noi: General Statistics Office, UNICEF; 2015.
+",2018-04-09T09:34:08Z,2011-2014,2011-01-01,2014-12-31
+855222,WHS4_115,COUNTRY,PAK,EMR,Eastern Mediterranean,YEAR,2013,,,,,,,,,14.1,14.1,,,"DHS 2012-13. 
+ National Institute of Population Studies (NIPS) [Pakistan], ICF International. Pakistan Demographic and Health Survey 2012-13. Islamabad, Pakistan, Calverton, Maryland, USA: NIPS [Pakistan], ICF International; 2013.
+",2018-04-09T09:34:07Z,2007-2013,2007-01-01,2013-12-31
+3685577,WHS4_115,COUNTRY,CRI,AMR,Americas,YEAR,2014,,,,,,,,,23.5,23.48,,,"Caja Costarricense del Seguro Social [Costa Rica]. Estadísticas de Salud 2014; 2016. Estadísticas de Salud. Cuadro No 43. Partos, Porcentaje con casarea, abortos, nacimientos, porcentaje de defunctiones fetales y defunciones maternas, segun red de servicios y centro de salud. C. C. S. S., 2014 [website]. San José: Caja Costarricense del Seguro Social; 2016 (http://www.ccss.sa.cr/arc/estadisticas/salud/80/an_est_8788b_2014.zip, accessed 12 July 2016, in Spanish).",2018-04-09T09:34:05Z,2014,2014-01-01,2014-12-31
+3393824,WHS4_115,COUNTRY,OMN,EMR,Eastern Mediterranean,YEAR,2016,,,,,,,,,19.5,19.5,,,"Ministry of Health [Oman]; 2017.
+ Annual Health Report 2016. Muscat: Ministry of Health, Department of Health Information and Statistics, Directorate General of Planning [Oman]; 2017.
+",2018-04-09T09:34:07Z,2016,2016-01-01,2016-12-31
+392327,WHS4_115,COUNTRY,ZWE,AFR,Africa,YEAR,2015,,,,,,,,,5.8,5.8,,,"DHS 2015.
+ Zimbabwe National Statistics Agency, ICF International. Zimbabwe Demographic and Health Survey 2015: Final Report. Rockville, Maryland, USA: Zimbabwe National Statistics Agency (ZIMSTAT), ICF International; 2016.
+",2018-04-09T09:34:08Z,2010-2015,2010-01-01,2015-12-31
+5758892,WHS4_115,COUNTRY,DEU,EUR,Europe,YEAR,2016,,,,,,,,,30.5,30.5,,,"Statistisches Bundesamt (DESTATIS) [Federal Statistical Office, Germany]; 2017. Krankenhausentbindungen in Deutschland: Jahre 1991 bis 2016 [website]. Wiesbaden: Statistisches Bundesamt (DESTATIS) [Federal Statistical Office, Germany]; 2017 (https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat, accessed 9 November 2017, in German). ",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+4573083,WHS4_115,COUNTRY,SMR,EUR,Europe,YEAR,2016,,,,,,,,,27.5,27.5,,,"Ufficio Informatica, Tecnologia, Dati e Statistica [San Marino]; 2017. Supplemento al Bollettino di Statistica Anno 2016. Borgo Maggiore: Ufficio Informatica, Tecnologia, Dati e Statistica [San Marino]; 2017 (in Italian). ",2018-04-09T09:34:07Z,2016,2016-01-01,2016-12-31
+2512304,WHS4_115,COUNTRY,SLB,WPR,Western Pacific,YEAR,2015,,,,,,,,,5.9,5.9,,,"DHS 2015. 
+ Solomon Islands National Statistics Office, Solomon Islands Ministry of Health and Medical Services (SIMoHMS), Pacific Community (SPC), Australian Aid, United Nations Children’s Fund (UNICEF) . Solomon Islands Demographic and Health Survey 2015.Noumea: SPC; 2017. 
+",2018-04-09T09:34:07Z,2010-2015,2010-01-01,2015-12-31
+5537084,WHS4_115,COUNTRY,MDA,EUR,Europe,YEAR,2014,,,,,,,,,18.4,18.4,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016. 
+ European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).
+",2018-04-09T09:34:07Z,2014,2014-01-01,2014-12-31
+7319333,WHS4_115,COUNTRY,RWA,AFR,Africa,YEAR,2015,,,,,,,,,13.0,13,,,"DHS 2014-15. 
+ National Institute of Statistics of Rwanda, Ministry of Finance and Economic Planning [Rwanda], Ministry of Health [Rwanda], ICF International. Rwanda Demographic and Health Survey 2014-15. Kigali, Rwanda: National Institute of Statistics of Rwanda, Ministry of Finance and Economic Planning [Rwanda], Ministry of Health [Rwanda], ICF International; 2015. 
+",2018-04-09T09:34:07Z,2010-2015,2010-01-01,2015-12-31
+1179207,WHS4_115,COUNTRY,LSO,AFR,Africa,YEAR,2014,,,,,,,,,9.7,9.7,,,"DHS 2014. 
+ Ministry of Health [Lesotho], ICF International. Lesotho Demographic and Health Survey 2014. Maseru, Lesotho: Ministry of Health, ICF International; 2016.
+",2018-04-09T09:34:06Z,2009-2014,2009-01-01,2014-12-31
+8911346,WHS4_115,COUNTRY,TUN,EMR,Eastern Mediterranean,YEAR,2012,,,,,,,,,26.7,26.7,,,"MICS 2011-2012. 
+ Ministère du Développement et de la Coopération Internationale (MDCI), Institut National de la Statistique, Fonds des Nations Unies pour l’Enfance (UNICEF).
+Suivi de la situation des enfants et des femmes en Tunisie - Enquête par grappes à indicateurs multiples 2011-2012, Rapport Final. Tunisie: MDCI, Institut National de la Statistique, UNICEF; 2013 (in French).
+",2018-04-09T09:34:08Z,2009-2012,2009-01-01,2012-12-31
+9793202,WHS4_115,COUNTRY,TCD,AFR,Africa,YEAR,2015,,,,,,,,,1.4,1.4,,,"DHS 2014-2015.  Institut National de la Statistique, des Études Économiques et Démographiques (INSEED), Ministère de la Santé Publique (MSP), ICF International. Enquête Démographique et de Santé et à Indicateurs Multiples (EDS-MICS 2014-2015). Rockville, Maryland, USA : INSEED, MSP, ICF International; 2016 (in French).",2018-04-09T09:34:05Z,2009-2015,2009-01-01,2015-12-31
+6646945,WHS4_115,COUNTRY,LUX,EUR,Europe,YEAR,2013,,,,,,,,,30.5,30.5,,,"Ministère de la Santé [Luxembourg], Luxembourg Institute of Health; 2016. Surveillance de la santé périnatale au Luxembourg. 2011 – 2012 – 2013. Luxembourg: Ministère de la Santé [Luxembourg], Luxembourg Institute of Health; 2016 (in French).",2018-04-09T09:34:06Z,2013,2013-01-01,2013-12-31
+367323,WHS4_115,COUNTRY,IND,SEAR,South-East Asia,YEAR,2016,,,,,,,,,17.2,17.2,,,"DHS 2015-16: National Family Health Survey-4 (NFHS-4) 2015-16 - Fact Sheet. National Family Health Survey-4 (NFHS-4) 2015-16. India Fact Sheet. Mumbai: International Institute for Population Sciences (IIPS) [India], Ministry of Health and Family Welfare [India], United States Agency for International Development (USAID); 2016. ",2018-04-09T09:34:06Z,2010-2016,2010-01-01,2016-12-31
+9546150,WHS4_115,COUNTRY,COD,AFR,Africa,YEAR,2014,,,,,,,,,5.1,5.1,,,"DHS 2013-2014.
+ Ministère du Plan et Suivi de la Mise en œuvre de la Révolution de la Modernité (MPSMRM), Ministère de la Santé Publique (MSP), ICF International. Enquête Démographique et de Santé en République Démocratique du Congo 2013-2014. Rockville, Maryland, USA : MPSMRM, MSP, ICF International; 2014 (in French).
+",2018-04-09T09:34:05Z,2008-2014,2008-01-01,2014-12-31
+4884402,WHS4_115,COUNTRY,KGZ,EUR,Europe,YEAR,2014,,,,,,,,,7.4,7.4,,,"MICS 2014. 
+ National Statistical Committee of the Kyrgyz Republic, United Nations Children's Fund (UNICEF). Kyrgyz Republic Multiple Indicator Cluster Survey 2014, Final Report. Bishkek, Kyrgyzstan: National Statistical Committee of the Kyrgyz Republic, UNICEF; 2016.
+",2018-04-09T09:34:06Z,2012-2014,2012-01-01,2014-12-31
+665664,WHS4_115,COUNTRY,MDV,SEAR,South-East Asia,YEAR,2014,,,,,,,,,41.2,41.2,,,"Ministry of Health [Republic of Maldives]; 2017.
+ The Maldives Health Statistics 2014. Male': Ministry of Health [Republic of Maldives]; 2017.
+",2018-04-09T09:34:06Z,2014,2014-01-01,2014-12-31
+4376874,WHS4_115,COUNTRY,AZE,EUR,Europe,YEAR,2015,,,,,,,,,27.6,27.6,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016.  European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).",2018-04-09T09:34:04Z,2015,2015-01-01,2015-12-31
+6767905,WHS4_115,COUNTRY,NER,AFR,Africa,YEAR,2012,,,,,,,,,1.4,1.4,,,"DHS 2012. 
+ Institut National de la Statistique (INS), ICF International. Enquête Démographique et de Santé et à Indicateurs Multiples du Niger 2012. Calverton, Maryland, USA : INS, ICF International; 2013 (in French).
+",2018-04-09T09:34:07Z,2007-2012,2007-01-01,2012-12-31
+3737059,WHS4_115,COUNTRY,MMR,SEAR,South-East Asia,YEAR,2016,,,,,,,,,17.1,17.1,,,"DHS 2015-16. 
+ Ministry of Health and Sports (MoHS), ICF. Myanmar Demographic and Health Survey 2015-16. Nay Pyi Taw, Myanmar, Rockville, Maryland USA: Ministry of Health and Sports, ICF; 2017.
+",2018-04-09T09:34:07Z,2010-2016,2010-01-01,2016-12-31
+2455468,WHS4_115,COUNTRY,EGY,EMR,Eastern Mediterranean,YEAR,2014,,,,,,,,,51.8,51.8,,,"DHS 2014. 
+ Ministry of Health and Population [Egypt], El-Zanaty and Associates [Egypt], ICF International. Egypt Demographic and Health Survey 2014. Cairo, Egypt and Rockville, Maryland, USA: Ministry of Health and Population, ICF International; 2015.
+",2018-04-09T09:34:05Z,2009-2014,2009-01-01,2014-12-31
+9755447,WHS4_115,COUNTRY,GNB,AFR,Africa,YEAR,2014,,,,,,,,,3.9,3.9,,,"MICS 2014. 
+ Ministério da Economia e Finanças, Direcção Geral do Plano Instituto Nacional de Estatística (INE), Fundo das Nações Unidas para a Infância (UNICEF). Inquérito aos Indicadores Múltiplos (MICS) 2014, Principais Resultados. Guiné-Bissau: Ministério da Economia e Finanças, Direcção Geral do Plano Instituto Nacional de Estatística (INE); 2015 (in Portuguese).
+",2018-04-09T09:34:06Z,2012-2014,2012-01-01,2014-12-31
+335909,WHS4_115,COUNTRY,BRB,AMR,Americas,YEAR,2012,,,,,,,,,21.3,21.3,,,"MICS 2012.  Barbados Statistical Service, ‘Barbados Multiple Indicator Cluster Survey 2012: Final Report’. BSS, Bridgetown, Barbados: Barbados Statistical Service, United Nations Children’s Fund (UNICEF), United Nations Population Fund (UNFPA), United Nations Entity for Gender Equality and the Empowerment of Women (UN Women); 2014.",2018-04-09T09:34:04Z,2010-2012,2010-01-01,2012-12-31
+5340979,WHS4_115,COUNTRY,MWI,AFR,Africa,YEAR,2016,,,,,,,,,6.1,6.1,,,"DHS 2015-16. 
+ National Statistical Office (NSO) [Malawi], ICF. Malawi Demographic and Health Survey 2015-16. Zomba, Malawi: NSO, ICF; 2017.
+",2018-04-09T09:34:06Z,2010-2016,2010-01-01,2016-12-31
+8163523,WHS4_115,COUNTRY,ISR,EUR,Europe,YEAR,2014,,,,,,,,,16.1,16.1,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016. 
+ European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).
+",2018-04-09T09:34:06Z,2014,2014-01-01,2014-12-31
+4294795,WHS4_115,COUNTRY,PRT,EUR,Europe,YEAR,2011,,,,,,,,,35.2,35.2,,,"Instituto Nacional de Estadística (INE) [Portugal]; 2013. Caesarean deliveries performed in hospitals (No.) by Geographic localization, Annual Live births (No.) by Sex; annual [online database]. Lisbon: Instituto Nacional de Estadística (INE) [Portugal]; 2013 (http://www.ine.pt, accessed 29 October 2013). ",2018-04-09T09:34:07Z,2011,2011-01-01,2011-12-31
+3857611,WHS4_115,COUNTRY,TUV,WPR,Western Pacific,YEAR,2007,,,,,,,,,7.1,7.1,,,"DHS 2007. 
+ Central Statistics Division [Tuvalu], Secretariat of the Pacific Community (SPC), Macro International Inc., Asian Development Bank. Tuvalu Demographic and Health Survey 2007. Noumea: SPC; 2009.
+",2018-04-09T09:34:08Z,2002-2007,2002-01-01,2007-12-31
+742044,WHS4_115,COUNTRY,GUY,AMR,Americas,YEAR,2014,,,,,,,,,16.9,16.9,,,"MICS 2014. 
+ Bureau of Statistics, Ministry of Health, United Nations Children's Fund (UNICEF). Guyana Multiple Indicator Cluster Survey 2014. Georgetown, Guyana: Bureau of Statistics, Ministry of Health, UNICEF; 2015.
+",2018-04-09T09:34:06Z,2012-2014,2012-01-01,2014-12-31
+4009985,WHS4_115,COUNTRY,FSM,WPR,Western Pacific,YEAR,2006,,,,,,,,,10.5,10.5,,,"SBOC [Micronesia]; 2008.
+ Statistical Yearbook Federated States of Micronesia 2008. Palikir, Pohnpei: Division of Statistics, Office of Statistics, Budget and Economic Management, Overseas Development Assistance, and Compact Management (SBOC) [Federated States of Micronesia]; 2008.
+",2018-04-09T09:34:06Z,2006,2006-01-01,2006-12-31
+6882151,WHS4_115,COUNTRY,NGA,AFR,Africa,YEAR,2017,,,,,,,,,2.8,2.8,,,"MICS 2016-2017. National Bureau of Statistics (NBS), United Nations Children’s Fund (UNICEF). Nigeria Multiple Indicator Cluster Survey 2016-17, Survey Findings Report. Abuja, Nigeria: National Bureau of Statistics, United Nations Children’s Fund (UNICEF); 2017.
+",2018-04-09T09:34:07Z,2014-2017,2014-01-01,2017-12-31
+6229015,WHS4_115,COUNTRY,IRQ,EMR,Eastern Mediterranean,YEAR,2012,,,,,,,,,24.4,24.4,,,"Shabila, NP. BMC Pregnancy Childbirth; 2017.
+ Shabila, NP. Rates and trends in cesarean sections between 2008 and 2012 in Iraq. BMC Pregnancy Childbirth. 2017;17:22. DOI: 10.1186/s12884-016-1211-6. 
+",2018-04-09T09:34:06Z,2012,2012-01-01,2012-12-31
+1954273,WHS4_115,COUNTRY,DZA,AFR,Africa,YEAR,2013,,,,,,,,,16.0,16,,,"MICS 2012-2013.  Enquête par Grappes à Indicateurs Multiples (MICS) [Multiple Indicator Cluster Survey (MICS)] République Algérienne Démocratique et Populaire 2012-2013. Rapport final. Algérie: Ministère de la Santé, de la Population et de la Réforme Hospitalière, Fonds des Nations unies pour l’enfance (UNICEF), Fonds des Nations Unies pour la Population (FNUAP/UNFPA); 2015 (in French).  ",2018-04-09T09:34:04Z,2010-2013,2010-01-01,2013-12-31
+9413629,WHS4_115,COUNTRY,KEN,AFR,Africa,YEAR,2009,,,,,,,,,8.7,8.7,,,"DHS 2014. 
+ Kenya National Bureau of Statistics, Ministry of Health, National AIDS Control Council, Kenya Medical Research Institute, National Council for Population and Development, Nairobi, Kenya, The DHS Program. Kenya Demographic and Health Survey 2014. Rockville, Maryland, USA: ICF International; 2015.
+",2018-04-09T09:34:06Z,2009,2009-01-01,2009-12-31
+6762061,WHS4_115,COUNTRY,BIH,EUR,Europe,YEAR,2014,,,,,,,,,24.0,24,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016.  European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).",2018-04-09T09:34:05Z,2014,2014-01-01,2014-12-31
+8411011,WHS4_115,COUNTRY,PER,AMR,Americas,YEAR,2016,,,,,,,,,31.6,31.6,,,"DHS 2016. 
+ Instituto Nacional de Estadística e Informática (INEI) [Perú]. Perú Encuesta Demográfica y de Salud Familiar - ENDES 2016. Nacional y Regional. Lima, Perú: INEI [Perú]; 2017 (in Spanish).
+",2018-04-09T09:34:07Z,2011-2016,2011-01-01,2016-12-31
+4004053,WHS4_115,COUNTRY,SEN,AFR,Africa,YEAR,2016,,,,,,,,,5.5,5.5,,,"DHS 2016 (Continuous). 
+ Agence Nationale de la Statistique et de la Démographie (ANSD) [Sénégal], ICF. Sénégal: Enquête Démographique et de Santé Continue (EDS-Continue) 2016. Rockville, Maryland, USA: ANSD, ICF; 2017 (in French). 
+",2018-04-09T09:34:07Z,2011-2016,2011-01-01,2016-12-31
+7561658,WHS4_115,COUNTRY,ERI,AFR,Africa,YEAR,2010,,,,,,,,,2.8,2.8,,,"National Statistics Office (NSO), Eritrea, Fafo Institute for Applied International Studies (Fafo AIS); 2013.
+ Eritrea Population and Health Survey 2010. Asmara: National Statistics Office (NSO), Eritrea, Fafo Institute for Applied International Studies (Fafo AIS); 2013.
+",2018-04-09T09:34:05Z,2005-2010,2005-01-01,2010-12-31
+2538839,WHS4_115,COUNTRY,ARE,EMR,Eastern Mediterranean,YEAR,2013,,,,,,,,,23.9,23.9,,,"Ministry of Health [UAE]; 2014. Open Data: Births by nationality, mode of delivery & condition of new born [2013] [website]. Abu Dhabi: Ministry of Health [UAE]; 2014 (www.moh.gov.ae/en/OpenData.aspx?Category=Statistics, accessed 15 January 2015).",2018-04-09T09:34:08Z,2013,2013-01-01,2013-12-31
+7403110,WHS4_115,COUNTRY,CAF,AFR,Africa,YEAR,2010,,,,,,,,,4.5,4.5,,,"MICS 2010.  ICASEES, Fonds des Nations Unies pour l'Enfance (UNICEF). Enquête par grappes à indicateurs multiples MICS, RCA 2010 Rapport final. Bangui: RCA ICASEES; 2012 (in French).
+",2018-04-09T09:34:05Z,2008-2010,2008-01-01,2010-12-31
+5830228,WHS4_115,COUNTRY,VEN,AMR,Americas,YEAR,2009,,,,,,,,,32.2,32.2,,,Ministerio del Poder Popular para la Salud (MPPS) [Venezuela]; 2010. Anuario Estadístico 2009. Indicadores de redes de servicios y programas de salud. Caracas: Ministerio del Poder Popular para la Salud (MPPS) [Venezuela]; 2010 (in Spanish).,2018-04-09T09:34:08Z,2009,2009-01-01,2009-12-31
+6077184,WHS4_115,COUNTRY,TKM,EUR,Europe,YEAR,2016,,,,,,,,,6.3,6.3,,,"MICS 2015-16. 
+ The State Committee of Statistics of Turkmenistan, United Nations Children's Fund (UNICEF). 2015-2016 Turkmenistan Multiple Indicator Cluster Survey, Final Report. Ashgabat, Turkmenistan: The State Committee of Statistics of Turkmenistan, UNICEF; 2016.
+",2018-04-09T09:34:08Z,2013-2016,2013-01-01,2016-12-31
+3547455,WHS4_115,COUNTRY,QAT,EMR,Eastern Mediterranean,YEAR,2012,,,,,,,,,19.5,19.5,,,"MICS 2012. 
+ Multiple Indicator Cluster Survey in the State of Qatar 2012. Doha: Ministry of Development Planning and Statistics, Qatar Foundation, Supreme Council of Health, United Nations Children’s Fund (UNICEF); 2014.
+",2018-04-09T09:34:07Z,2010-2012,2010-01-01,2012-12-31
+1085258,WHS4_115,COUNTRY,BEN,AFR,Africa,YEAR,2014,,,,,,,,,5.3,5.3,,,"MICS 2014.  Institut national de la statistique et de l’analyse économique (INSAE), Bénin, Fonds des Nations Unies pour l’Enfance (UNICEF). Enquête par grappes à indicateurs multiples 2014, Rapport final, Cotonou, Bénin : Institut national de la statistique et de l’analyse économique; 2015 (in French).",2018-04-09T09:34:05Z,2012-2014,2012-01-01,2014-12-31
+4822211,WHS4_115,COUNTRY,MDG,AFR,Africa,YEAR,2013,,,,,,,,,1.9,1.9,,,"l’Institut National de la Statistique [Madagascar], l’Office National de Nutrition (ONN), UNICEF, FNUAP/UNFPA, PNUD/UNDP; 2014.
+ L’Enquête Nationale sur le Suivi des Objectifs du Millénaire pour le Développement à Madagascar 2012-2013 (ENSOMD). Madagascar: l’Institut National de la Statistique [Madagascar], l’Office National de Nutrition (ONN), Fonds des Nations Unies pour l'Enfance (UNICEF), Fonds des Nations Unies pour la Population (FNUAP/UNFPA), Programme des Nations Unies pour le développement (PNUD/UNDP); 2014 (in French).
+",2018-04-09T09:34:06Z,2007-2013,2007-01-01,2013-12-31
+6635505,WHS4_115,COUNTRY,CIV,AFR,Africa,YEAR,2016,,,,,,,,,3.3,3.3,,,"MICS 2016 Enquête par grappes à indicateurs multiples - Côte d’Ivoire 2016 (MICS 2016). Abidjan: Ministère du Plan et du Développement [Côte d’Ivoire], Institut National de la Statistique (INS) [Côte d’Ivoire], Fonds des Nations Unies pour l'Enfance (UNICEF), le Fonds mondial [the Global Fund], Contrat de Désendettement et de Développement, Fonds des Nations unies pour la population (FNUAP/UNFPA); 2017 (in French).",2018-04-09T09:34:05Z,2014-2016,2014-01-01,2016-12-31
+8006106,WHS4_115,COUNTRY,CHN,WPR,Western Pacific,YEAR,2014,,,,,,,,,34.9,34.9,,,"Li H-T, Luo S, Trasande L, Hellerstein S, Kang C, Li J-X et al. JAMA; 2017. Li H-T, Luo S, Trasande L, Hellerstein S, Kang C, Li J-X et al. Geographic Variations and Temporal Trends in Cesarean Delivery Rates in China, 2008-2014. JAMA. 2017; 317(1):69-76. doi: 10.1001/jama.2016.18663. ",2018-04-09T09:34:05Z,2014,2014-01-01,2014-12-31
+6476885,WHS4_115,COUNTRY,THA,SEAR,South-East Asia,YEAR,2016,,,,,,,,,32.7,32.7,,,"MICS 2015-16.
+ National Statistical Office (NSO), United Nations Children's Fund (UNICEF). Thailand Multiple Indicator Cluster Survey 2015-16. Final Report. Bangkok: NSO, UNICEF; 2016.
+",2018-04-09T09:34:08Z,2013-2016,2013-01-01,2016-12-31
+3262271,WHS4_115,COUNTRY,MKD,EUR,Europe,YEAR,2011,,,,,,,,,24.9,24.9,,,"MICS 2011. 
+ Macedonia Multiple Indicator Cluster Survey 2011 (MICS 2011). Republic of Macedonia: Ministry of Health, Ministry of Education and Science, Ministry of Labour and Social Policy of the Government of Republic of Macedonia, United Nations Children's Fund (UNICEF), United Nations Population Fund (UNFPA); 2014.
+",2018-04-09T09:34:08Z,2009-2011,2009-01-01,2011-12-31
+7752431,WHS4_115,COUNTRY,LTU,EUR,Europe,YEAR,2015,,,,,,,,,21.9,21.9,,,"Institute of Hygiene Health Information Centre, Vilnius University Medical Faculty, Vilnius University, Center of Neonatology [Lithuania]; 2016. Institute of Hygiene Health Information Centre, Vilnius University Medical Faculty, Vilnius University, Center of Neonatology. Medical data of Births 2015 m. Vilnius: Institute of Hygiene Health Information Centre; 2016.",2018-04-09T09:34:06Z,2015,2015-01-01,2015-12-31
+3478012,WHS4_115,COUNTRY,URY,AMR,Americas,YEAR,2015,,,,,,,,,39.4,39.4,,,"Ministerio de Salud Pública [Ministry of Public Health, Uruguay]. Natalidad 2015; 2016. República Oriental del Uruguay - Estadísticas Vitales - Natalidad 2011-2015, Certificado de Nacido Vivo de Uruguay. Natalidad 2015_p: Tipo de cesárea (tipoces) [website]. Montevideo: Ministerio de Salud Pública [Ministry of Public Health, Uruguay]; 2016 (http://estadisticas.msp.gub.uy/index.php/catalog/20/data_dictionary#page=F9&tab=data-dictionary, accessed 4 August 2016, in Spanish).",2018-04-09T09:34:08Z,2015,2015-01-01,2015-12-31
+8982821,WHS4_115,COUNTRY,BLZ,AMR,Americas,YEAR,2016,,,,,,,,,34.2,34.2,,,"MICS 2015-16. Statistical Institute of Belize, UNICEF Belize. Belize Multiple Indicator Cluster Survey, 2015-2016, Final Report. Belmopan, Belize: Statistical Institute of Belize, UNICEF Belize; 2017.
+",2018-04-09T09:34:04Z,2013-2016,2013-01-01,2016-12-31
+6661227,WHS4_115,COUNTRY,PRK,SEAR,South-East Asia,YEAR,2009,,,,,,,,,12.5,12.5,,,"MICS 2009. 
+ Central Bureau of Statistics (CBS), UNICEF. DPR Korea Multiple Indicator Cluster Survey 2009, Final Report. Pyongyang, DPR Korea: Central Bureau of Statistics (CBS), UNICEF; 2010.
+",2018-04-09T09:34:05Z,2007-2009,2007-01-01,2009-12-31
+8196420,WHS4_115,COUNTRY,JPN,WPR,Western Pacific,YEAR,2014,,,,,,,,,19.7,19.7,,,"Ministry of Health, Labour and Welfare [Japan]; 2015.  Summary of Health Care Facilities and Hospital Statistics 2014 (平成26 年（2014）
+医療施設(静態・動態)調査･病院報告の概況). Tokyo: Ministry of Health, Labour and Welfare [Japan]; 2015 (in Japanese). ",2018-04-09T09:34:06Z,2014,2014-01-01,2014-12-31
+4169704,WHS4_115,COUNTRY,SWE,EUR,Europe,YEAR,2015,,,,,,,,,17.4,17.4,,,"Socialstyrelsen [The National Board of Health and Welfare, Sweden]; 2017. Statistik om graviditeter, förlossningar och nyfödda barn 2015 [Statistics on Pregnancies, Deliveries and Newborn Infants 2015]. Stockholm: Socialstyrelsen [The National Board of Health and Welfare, Sweden]; 2017 (in Swedish).",2018-04-09T09:34:08Z,2015,2015-01-01,2015-12-31
+7955909,WHS4_115,COUNTRY,HRV,EUR,Europe,YEAR,2016,,,,,,,,,23.0,23,,,Croatian National Institute of Public Health; 2017. Croatian Health Service Yearbook 2016. Zagreb: Croatian National Institute of Public Health; 2017.,2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+8031526,WHS4_115,COUNTRY,LAO,WPR,Western Pacific,YEAR,2012,,,,,,,,,3.7,3.7,,,"MICS 2011-12/DHS 2011-12 (LSIS 2011-12). 
+ Ministry of Health [Lao], Lao Statistics Bureau, United Nations Children’s Fund (UNICEF), United Nations Population Fund (UNFPA). Lao Social Indicator Survey (LSIS) 2011-12. (Multiple Indicator Survey / Demographic and Health Survey). Vientiane: Ministry of Health [Lao], Lao Statistics Bureau, United Nations Children’s Fund (UNICEF), United Nations Population Fund (UNFPA); 2012.
+",2018-04-09T09:34:06Z,2009-2012,2009-01-01,2012-12-31
+6483650,WHS4_115,COUNTRY,GAB,AFR,Africa,YEAR,2012,,,,,,,,,10.0,10,,,"DHS 2012. 
+ Direction Générale de la Statistique (DGS), ICF International. Enquête Démographique et de Santé du Gabon 2012. Calverton, Maryland, et Libreville, Gabon: DGS, ICF International; 2013 (in French).
+",2018-04-09T09:34:05Z,2007-2012,2007-01-01,2012-12-31
+3636954,WHS4_115,COUNTRY,WSM,WPR,Western Pacific,YEAR,2014,,,,,,,,,4.6,4.6,,,"DHS 2014. 
+ Census-Surveys and Demography Division, Samoa Bureau of Statistics, Ministry of Health [Samoa], United Nations Population Fund (UNFPA), United Nations Children’s Fund (UNICEF), Department of Foreign Affairs and Trade [Australia]. Samoa Demographic and Health Survey 2014. Apia: Samoa Bureau of Statistics; 2015. 
+",2018-04-09T09:34:07Z,2009-2014,2009-01-01,2014-12-31
+476915,WHS4_115,COUNTRY,ISL,EUR,Europe,YEAR,2016,,,,,,,,,18.3,18.3,,,"Landspítali [Iceland]; 2017.
+ 
+Hospital Statistics and Accounts 2016. Reykjavík: Landspítali [Landspítali University Hospital], Division of Finance and Information; 2017.
+",2018-04-09T09:34:06Z,2016,2016-01-01,2016-12-31
+5799204,WHS4_115,COUNTRY,BGR,EUR,Europe,YEAR,2014,,,,,,,,,39.1,39.1,,,"European Health for All Database (HFA-DB), WHO Regional Office for Europe; 2016.  European Health for All Database (HFA-DB) [online database]. World Health Organization (WHO) Regional Office for Europe; 2016 (http://data.euro.who.int/hfadb, accessed 8 August 2016).",2018-04-09T09:34:05Z,2014,2014-01-01,2014-12-31
+1282736,WHS4_115,COUNTRY,NPL,SEAR,South-East Asia,YEAR,2016,,,,,,,,,9.0,9,,,"DHS 2016.
+ Ministry of Health, Nepal, New ERA, ICF. Nepal Demographic and Health Survey 2016. Kathmandu, Nepal: Ministry of Health, Nepal; 2017. 
+",2018-04-09T09:34:07Z,2011-2016,2011-01-01,2016-12-31
+8678554,WHS4_115,COUNTRY,SDN,EMR,Eastern Mediterranean,YEAR,2014,,,,,,,,,9.1,9.1,,,"MICS 2014. 
+ Central Bureau of Statistics (CBS), United Nation's Childrens Fund (UNICEF) Sudan. Multiple Indicator Cluster Survey 2014 of Sudan, Final Report. Khartoum, Sudan: UNICEF, Central Bureau of Statistics (CBS); 2016.
+",2018-04-09T09:34:07Z,2012-2014,2012-01-01,2014-12-31
+293168,WHS4_115,COUNTRY,GTM,AMR,Americas,YEAR,2015,,,,,,,,,26.3,26.3,,,"Ministerio de Salud Pública y Asistencia Social (MSPAS) [Guatemala], Instituto Nacional de Estadística (INE) [Guatemala], ICF International; 2015.
+ Encuesta Nacional de Salud Materno Infantil (ENSMI) 2014-2015. Informe Final. Ciudad de Guatemala: Ministerio de Salud Pública y Asistencia Social (MSPAS) [Guatemala], Instituto Nacional de Estadística (INE) [Guatemala], ICF International; 2015 (in Spanish). 
+",2018-04-09T09:34:06Z,2009-2015,2009-01-01,2015-12-31
+597665,WHS4_115,COUNTRY,JAM,AMR,Americas,YEAR,2011,,,,,,,,,21.2,21.2,,,"MICS 2011. 
+ Statistical Institute of Jamaica (STATIN), United Nations Children's Fund (UNICEF). Jamaica Multiple Indicator Cluster Survey 2011. Final Report. Kingston, Jamaica: STATIN, UNICEF; 2013.
+",2018-04-09T09:34:06Z,2009-2011,2009-01-01,2011-12-31
+1752336,WHS4_115,COUNTRY,SVK,EUR,Europe,YEAR,2012,,,,,,,,,30.3,30.3,,,"Korbel M, Kristufkova A, Dugatova M, Danis J, Nemethova B, Kascak P et al. Ceska Gynekol; 2017. Korbel M, Kristufkova A, Dugatova M, Danis J, Nemethova B, Kascak P et al. Analýza materskej morbidity a mortality v Slovenskej republike v rokoch 2007–2012. [Analysis of maternal morbidity and mortality in Slovak Republic in the years 2007-2012]. Ceska Gynekol. 2017;82(1):6-15 (in Slovak).",2018-04-09T09:34:07Z,2012,2012-01-01,2012-12-31
+1771400,WHS4_115,COUNTRY,MRT,AFR,Africa,YEAR,2015,,,,,,,,,4.9,4.9,,,"MICS 2015
+ Mauritanie Enquête Par Grappes À Indicateurs Multiples MICS 2015. Rapport Final. Nouakchott: Ministère De l’Économie et des Finances, Office National De La Statistique [Mauritanie], Fonds des Nations unies pour l’enfance (UNICEF); 2017 (in French). 
+",2018-04-09T09:34:06Z,2013-2015,2013-01-01,2015-12-31
+1092523,WHS4_115,COUNTRY,RUS,EUR,Europe,YEAR,2011,,,,,,,,,13.0,13,,,"RHS 2011.  Federal State Statistic Service (ROSSTAT), Ministry of Health of the Russian Federation, Information and Publishing Center ""Statistics of Russia"". Reproductive Health Survey Russia 2011. Full Report. Atlanta: United Nations Population Fund (UNFPA), Division of Reproductive Health, Centers for Disease Control and Prevention (DRH/CDC); 2012 (in Russian). 
+",2018-04-09T09:34:07Z,2006-2011,2006-01-01,2011-12-31
+280621,WHS4_115,COUNTRY,SLV,AMR,Americas,YEAR,2016,,,,,,,,,31.3,31.3,,,"Ministerio de Salud de El Salvador; 2017.
+ Informe de Labores 2016-2017. San Salvador: Ministerio de Salud de El Salvador; 2017 (in Spanish).
+",2018-04-09T09:34:05Z,2016,2016-01-01,2016-12-31
+2920485,WHS4_115,COUNTRY,IRN,EMR,Eastern Mediterranean,YEAR,2010,,,,,,,,,45.6,45.55,,,"IrMIDHS 2010. 
+Ministry of Health and Medical Education [Iran]; 2012. Rashidian A, Khosravi A, Khabiri R, Khodayari-Moez E, Elahi E, Arab M, Radaie Z. Islamic Republic of Iran’s Multiple Indicator Demographic and Health Survey (IrMIDHS) 2010. Tehran: Ministry of Health and Medical Education; 2012 (in Persian).
+",2018-04-09T09:34:06Z,2008-2010,2008-01-01,2010-12-31
+3009100,WHS4_115,COUNTRY,GMB,AFR,Africa,YEAR,2013,,,,,,,,,2.0,2,,,"DHS 2013. 
+ The Gambia Bureau of Statistics (GBOS), ICF International. The Gambia Demographic and Health Survey 2013. Banjul, The Gambia, and Rockville, Maryland, USA: GBOS, ICF International; 2014. 
+",2018-04-09T09:34:05Z,2008-2013,2008-01-01,2013-12-31
+10023798,WHS4_115,COUNTRY,MLT,EUR,Europe,YEAR,2016,,,,,,,,,30.7,30.7,,,"Directorate for Health Information and Research (DHIR) [Malta]; 2017.
+ National Obstetric Information System (NOIS). Annual Report – 2016. Malta: Directorate for Health Information and Research (DHIR); 2017.
+",2018-04-09T09:34:06Z,2016,2016-01-01,2016-12-31
+5482304,WHS4_115,COUNTRY,SUR,AMR,Americas,YEAR,2010,,,,,,,,,19.0,19,,,"MICS 2010. 
+ Ministry of Social Affairs and Housing, General Bureau of Statistics, United Nation's Childrens Fund (UNICEF). Suriname Multiple Indicator Cluster Survey 2010, Final Report: Paramaribo: Ministry of Social Affairs and Housing, General Bureau of Statistics, UNICEF; 2012.
+",2018-04-09T09:34:07Z,2008-2010,2008-01-01,2010-12-31
+705724,WHS4_115,COUNTRY,SLE,AFR,Africa,YEAR,2013,,,,,,,,,2.9,2.9,,,"DHS 2013. 
+ Statistics Sierra Leone (SSL), ICF International. Sierra Leone Demographic and Health Survey 2013. Freetown, Sierra Leone and Rockville, Maryland, USA: SSL, ICF International; 2014.
+",2018-04-09T09:34:07Z,2008-2013,2008-01-01,2013-12-31
+6408031,WHS4_115,COUNTRY,CMR,AFR,Africa,YEAR,2014,,,,,,,,,2.4,2.4,,,"MICS 2014.  Institut National de la Statistique, UNICEF. Enquête par grappes à indicateurs multiples (MICS5), 2014, Rapport Final. Yaoundé, Cameroun, Institut National de la Statistique; 2015 (in French).",2018-04-09T09:34:05Z,2012-2014,2012-01-01,2014-12-31
+8685388,WHS4_115,COUNTRY,NOR,EUR,Europe,YEAR,2016,,,,,,,,,16.1,16.1,,,"Folkehelseinstituttet [Norwegian Institute of Public Health (NIPH)]; 2017.
+ Dataset: F10c-2: Keisersnitt utført. 2016. [online database]. Oslo: Folkehelseinstituttet, Medisinsk fødselsregister [Norwegian Institute of Public Health (NIPH), Medical Birth Registry]; 2017 (http://statistikkbank.fhi.no/mfr, in Norwegian). ",2018-04-09T09:34:07Z,2016,2016-01-01,2016-12-31
+4614074,WHS4_115,COUNTRY,KOR,WPR,Western Pacific,YEAR,2015,,,,,,,,,39.1,39.1,,,"Korea Institute for Health and Social Affairs; 2015. 
+ The 2015 National Survey on Fertility, Family Health & Welfare in Korea. Sejong City: Korea Institute for Health and Social Affairs; 2015 (in Korean). 
+",2018-04-09T09:34:07Z,2013-2015,2013-01-01,2015-12-31
+1023046,WHS4_115,COUNTRY,SYC,AFR,Africa,YEAR,2016,,,,,,,,,28.2,28.2,,,National Bureau of Statistics [Seychelles]; 2017. Statistical Abstract 2016. Victoria: National Bureau of Statistics [Seychelles]; 2017.,2018-04-09T09:34:07Z,2016,2016-01-01,2016-12-31
+9161727,WHS4_115,COUNTRY,STP,AFR,Africa,YEAR,2014,,,,,,,,,5.6,5.6,,,"MICS 2014. 
+ Instituto Nacional de Estatística (INE), UNICEF. Inquérito de Indicadores Múltiplos, São Tomé e Principe, MICS-STP, 2014, Principais Resultados. São Tome, São Tomé e Príncipe: INE, UNICEF; 2016 (in Portuguese).
+",2018-04-09T09:34:07Z,2012-2014,2012-01-01,2014-12-31
+6624150,WHS4_115,COUNTRY,BFA,AFR,Africa,YEAR,2015,,,,,,,,,3.7,3.7,,,Institut National de la Statistique et de la Démographie (INSD) [Burkina Faso]; 2015. Rapport du Module Démographie et Santé (MDS) de L’Enquête  Multisectorielle Continue (EMC). Version en relecture. Burkina Faso: Institut National de la Statistique et de la Démographie (INSD); 2016 (in French). ,2018-04-09T09:34:05Z,2010-2015,2010-01-01,2015-12-31
+8362184,WHS4_115,COUNTRY,ITA,EUR,Europe,YEAR,2014,,,,,,,,,35.0,35,,,"Direzione Generale della Digitalizzazione, del Sistema Informativo Sanitario e della Statistica – Ufficio di Statistica [Italy]; 2017.
+ Certificato di assistenza al parto (CeDAP). Analisi dell’evento nascita - Anno 2014. Roma: Direzione Generale della Digitalizzazione, del Sistema Informativo Sanitario e della Statistica – Ufficio di Statistica; 2017 (in Italian). 
+",2018-04-09T09:34:06Z,2014,2014-01-01,2014-12-31
+2241835,WHS4_115,COUNTRY,TZA,AFR,Africa,YEAR,2016,,,,,,,,,5.9,5.9,,,"DHS 2015-16. 
+ Ministry of Health, Community Development, Gender, Elderly and Children - MoHCDGEC [Tanzania], Ministry of Health (MoH) [Zanzibar], National Bureau of Statistics (NBS) [Tanzania], Office of Chief Government Statistician (OCGS) [Zanzibar], ICF. Tanzania Demographic and Health Survey and Malaria Indicator Survey (TDHS-MIS) 2015-16. Dar es Salaam, Tanzania: MoHCDGEC, MoH, NBS, OCGS, ICF; 2016.
+",2018-04-09T09:34:08Z,2010-2016,2010-01-01,2016-12-31
+3022262,WHS4_115,COUNTRY,MNG,WPR,Western Pacific,YEAR,2013,,,,,,,,,23.4,23.4,,,"MICS 2013
+ Mongolia Social Indicator Sample Survey - 2013. Multiple Indicator Cluster Survey. Final Report. Ulaanbaatar: National Statistical Office of Mongolia, United Nations Children's Fund (UNICEF), United Nations Population Fund (UNFPA); 2015.
+",2018-04-09T09:34:06Z,2011-2013,2011-01-01,2013-12-31
+1657942,WHS4_115,COUNTRY,DOM,AMR,Americas,YEAR,2012,,,,,,,,,58.1,58.1,,,"MICS 2014. 
+ Oficina Nacional de Estadísticas, Fondo de las Naciones Unidas para la Infancia (UNICEF). Encuesta Nacional de Hogares de Propósitos Múltiples - Encuesta de Indicadores Múltiples por Conglomerados 2014, Resultados Principales. Santo Domingo, República Dominicana: Oficina Nacional de Estadística; 2015 (in Spanish). ",2018-04-09T09:34:05Z,2012,2012-01-01,2012-12-31
+8210298,WHS4_115,COUNTRY,LKA,SEAR,South-East Asia,YEAR,2015,,,,,,,,,33.2,33.2,,,"Ministry of Health, Nutrition and Indigenous Medicine [Sri Lanka]; 2017.  Annual Health Bulletin 2015 Sri Lanka. Colombo: Ministry of Health, Nutrition and Indigenous Medicine, Medical Statistics Unit [Sri Lanka]; 2017. ",2018-04-09T09:34:07Z,2015,2015-01-01,2015-12-31
+5781199,WHS4_115,COUNTRY,HTI,AMR,Americas,YEAR,2013,,,,,,,,,5.4,5.4,,,"République d'Haïti, Ministère de la Santé Publique et de la Population; 2014.
+ Rapport Statistique 2013. République d'Haïti, Ministère de la Santé Publique et de la Population, Unité d'Études et de Programmation; 2014 (in French).
+",2018-04-09T09:34:06Z,2013,2013-01-01,2013-12-31
+5844573,WHS4_115,COUNTRY,AUT,EUR,Europe,YEAR,2016,,,,,,,,,29.5,29.5,,,"Statistics Austria; 2017. Vital statistics. Live births (with place of birth in Austria) by medical characteristics since 2006 [website]. Vienna: Statistics Austria; 2017 (http://www.statistik.at/web_en/statistics/PeopleSociety/health/medical_and_sociomedical_characteristics_of_live_birth/110639.html, accessed 27 October 2017).",2018-04-09T09:34:04Z,2016,2016-01-01,2016-12-31
+3396900,WHS4_115,COUNTRY,MAR,EMR,Eastern Mediterranean,YEAR,2015,,,,,,,,,15.2,15.2,,,Ministère de la Santé (DPRF/DPE/SEIS) [Morocco]; 2016. Santé en chiffres 2015. Édition 2016. Rabat: Ministère de la Santé - Direction de la Planification et des Ressources Financières/Division de la Planification et des Etudes/Service des Etudes et de l’Information Sanitaire (DPRF/DPE/SEIS); 2016 (in French).,2018-04-09T09:34:07Z,2015,2015-01-01,2015-12-31
+3530097,WHS4_115,COUNTRY,ECU,AMR,Americas,YEAR,2015,,,,,,,,,49.0,49,,,Ministerio de Salud Pública del Ecuador; 2016.  Boletín Nacimientos por cesárea MSP 2012-2015. Quito: Ministerio de Salud Pública del Ecuador; 2016 (in Spanish). ,2018-04-09T09:34:05Z,2015,2015-01-01,2015-12-31
+9200209,WHS4_115,COUNTRY,BOL,AMR,Americas,YEAR,2016,,,,,,,,,33.4,33.4,,,"DHS 2016.  Encuesta Nacional de Demografía y Salud - EDSA 2016. Bolivia: Indicadores Priorizados. La Paz: Ministerio de Salud, Instituto Nacional de Estadística (INE); 2017 (in Spanish).",2018-04-09T09:34:05Z,2011-2016,2011-01-01,2016-12-31
+1353634,WHS4_115,COUNTRY,GHA,AFR,Africa,YEAR,2014,,,,,,,,,12.8,12.8,,,"DHS 2014. 
+ Ghana Statistical Service (GSS), Ghana Health Service (GHS), ICF International. Ghana Demographic and Health Survey 2014. Rockville, Maryland, USA: GSS, GHS, ICF International; 2015. 
+",2018-04-09T09:34:06Z,2009-2014,2009-01-01,2014-12-31
+7944516,WHS4_115,COUNTRY,MLI,AFR,Africa,YEAR,2015,,,,,,,,,2.0,2,,,"MICS 2015. 
+ Institut national de la statistique (INSTAT), Fonds des Nations Unies pour l’enfance (UNICEF). Enquête par grappes à indicateurs multiples au Mali (MICS-Mali), 2015, Rapport final. Bamako, Mali: INSTAT; 2016 (in French). 
+",2018-04-09T09:34:06Z,2013-2015,2013-01-01,2015-12-31
+7982461,WHS4_115,COUNTRY,IRL,EUR,Europe,YEAR,2015,,,,,,,,,31.3,31.3,,,"Healthcare Pricing Office (HPO), Health Service Executive (HSE) [Ireland]; 2017.  
+ Healthcare Pricing Office (HPO), Health Service Executive (HSE). Perinatal Statistics Report 2015. Version 1.0. Dublin: HSE; 2017.  
+",2018-04-09T09:34:06Z,2015,2015-01-01,2015-12-31
+1011163,WHS4_115,COUNTRY,BEL,EUR,Europe,YEAR,2013,,,,,,,,,21.2,21.2,,,"Scientific Institute of Public Health [Belgium]; 2014. Standardized Procedures for Mortality Analysis (SPMA). Number of births by delivery for all Belgium, Belgium 2013 [website]. Brussels: Scientific Institute of Public Health; 2014 (https://www.wiv-isp.be/epidemio/spma/, accessed 30 October 2017).",2018-04-09T09:34:04Z,2013,2013-01-01,2013-12-31
+4703600,WHS4_115,COUNTRY,SYR,EMR,Eastern Mediterranean,YEAR,2009,,,,,,,,,26.0,26,,,"Central Bureau of Statistics [Syrian Arab Republic], League of Arab States PAPFAM, UNICEF, UNFPA, WHO; 2010.
+ Syrian Households [2009]. Syrian Arab Republic: Central Bureau of Statistics [Syrian Arab Republic], League of Arab States PAPFAM, United Nations Children’s Fund (UNICEF), United Nations Population Fund (UNFPA), World Health Organization (WHO); 2010.
+",2018-04-09T09:34:08Z,2004-2009,2004-01-01,2009-12-31
+8102877,WHS4_115,COUNTRY,YEM,EMR,Eastern Mediterranean,YEAR,2013,,,,,,,,,4.8,4.8,,,"DHS 2013. 
+ Ministry of Public Health and Population (MOPHP) [Yemen], Central Statistical Organization (CSO) [Yemen], Pan Arab Program for Family Health (PAPFAM), ICF International. Yemen National Health and Demographic Survey 2013. Rockville, Maryland, USA: MOPHP, CSO, PAPFAM, ICF International; 2015.
+",2018-04-09T09:34:08Z,2008-2013,2008-01-01,2013-12-31
+6231554,WHS4_115,COUNTRY,HND,AMR,Americas,YEAR,2012,,,,,,,,,18.6,18.6,,,"DHS 2011-2012. 
+ Secretaría de Salud [Honduras], Instituto Nacional de Estadística (INE), ICF International. Encuesta Nacional de Salud y Demografía 2011-2012. Tegucigalpa, Honduras: SS, INE, ICF International; 2013 (in Spanish).
+",2018-04-09T09:34:06Z,2006-2012,2006-01-01,2012-12-31

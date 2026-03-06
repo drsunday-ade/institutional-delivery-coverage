@@ -1,0 +1,21 @@
+part,term,statistic,H1 TWFE (primary),H1 + Region×Year FE,H1 + SBA + ANC4,Placebo: Lead(+1y) Inst
+estimates,inst10,estimate,-0.072,-0.049,0.004,
+estimates,inst10,std.error,(0.016),(0.020),(0.045),
+estimates,abr1,estimate,-0.000,0.001,-0.002,-0.000
+estimates,abr1,std.error,(0.002),(0.002),(0.002),(0.001)
+estimates,an10,estimate,-0.125,0.025,-0.078,-0.148
+estimates,an10,std.error,(0.094),(0.117),(0.134),(0.078)
+estimates,sba10,estimate,,,-0.117,
+estimates,sba10,std.error,,,(0.042),
+estimates,anc410,estimate,,,0.009,
+estimates,anc410,std.error,,,(0.027),
+estimates,inst10_lead1,estimate,,,,-0.079
+estimates,inst10_lead1,std.error,,,,(0.017)
+gof,Num.Obs.,,1231,1224,462,1267
+gof,R2,,0.984,0.986,0.992,0.988
+gof,R2 Within,,0.035,0.015,0.121,0.065
+gof,RMSE,,0.18,0.17,0.14,0.16
+gof,Std.Errors,,by: country_code & year,by: country_code & year,by: country_code & year,by: country_code & year
+gof,FE: country_code,,X,X,X,X
+gof,FE: year,,X,,X,X
+gof,FE: who_region^year,,,X,,

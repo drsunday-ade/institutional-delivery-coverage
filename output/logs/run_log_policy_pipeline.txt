@@ -1,0 +1,84 @@
+Run started: 2026-03-05 00:05:13.089931 
+ROOT: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1 
+DATA_DIR: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/data 
+OUTDIR: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output 
+Year window: 2000 to 2022 
+SEED: 12345 
+
+wrote 7.65kB in  0s, 57.07MB/swrote 1.00TB in  0s, 81.35TB/s                                                                                                                                      Panel built. N rows: 4485 | Countries: 195 | Years: 23 
+
+wrote 1.00TB in  0s, 349.53PB/s                                                                                                                                      wrote 1.00TB in  0s, 246.72PB/s                                                                                                                                      wrote 387.00B in  0s, 124.86MB/s                                                                                                                                      wrote 1.00TB in  0s, 6.99PB/s                                                                                                                                      wrote 1.00TB in  0s, 524.29PB/s                                                                                                                                      wrote 1.00TB in  0s, 246.72PB/s                                                                                                                                      wrote 2.59kB in  0s, 678.69MB/swrote 1.00TB in  0s, 334.58TB/s                                                                                                                                      [1] TRUE
+[1] TRUE
+[1] TRUE
+[1] TRUE
+[1] TRUE
+
+Shiny app created at: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/shiny_app 
+To run locally: shiny::runApp('/Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/shiny_app')
+
+wrote 1.00TB in  0s, 246.72PB/s                                                                                                                                      wrote 2.10kB in  0s, 734.70MB/s                                                                                                                                      wrote 1.00TB in  0s, 4.25PB/s                                                                                                                                      Outputs written under: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output 
+Figures: 5 PNG
+Tables : 12 files
+Done.
+Deploy script started: 2026-03-05 00:35:37.91419 
+ROOT: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1 
+APP_DIR: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/shiny_app 
+APP_NAME: who-mmr-policy-explorer 
+ACCOUNT_NAME: setrojaboard 
+RUN_LOCAL: 0 
+
+App structure OK.
+Found PNGs: 5 
+
+Account info set for: setrojaboard 
+
+Starting deployment to shinyapps.io...
+Waiting for task: 1659671609
+  building: Building image: 14486290
+  building: Fetching packages
+  building: Installing packages
+  building: Installing files
+  building: Pushing image: 14486290
+  deploying: Starting instances
+  success: Stopping old instances
+Standard deployment succeeded. 
+
+Deployment finished successfully.
+In the Console output above, rsconnect usually prints the live URL.
+
+Saved sessionInfo to: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/logs/deploy_sessionInfo.txt 
+Saved deploy log to: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/logs/deploy_shinyapp_log.txt 
+Done.
+afe Maternal Delivery/maternal-and-reproductive-health-1/output 
+Figures: 5 PNG
+Tables : 12 files
+Done.
+Deploy script started: 2026-03-05 00:35:37.91419 
+ROOT: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1 
+APP_DIR: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/shiny_app 
+APP_NAME: who-mmr-policy-explorer 
+ACCOUNT_NAME: setrojaboard 
+RUN_LOCAL: 0 
+
+App structure OK.
+Found PNGs: 5 
+
+Account info set for: setrojaboard 
+
+Starting deployment to shinyapps.io...
+Waiting for task: 1659671609
+  building: Building image: 14486290
+  building: Fetching packages
+  building: Installing packages
+  building: Installing files
+  building: Pushing image: 14486290
+  deploying: Starting instances
+  success: Stopping old instances
+Standard deployment succeeded. 
+
+Deployment finished successfully.
+In the Console output above, rsconnect usually prints the live URL.
+
+Saved sessionInfo to: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/logs/deploy_sessionInfo.txt 
+Saved deploy log to: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/WHO1_Equity-Adjusted Thresholds for Safe Maternal Delivery/maternal-and-reproductive-health-1/output/logs/deploy_shinyapp_log.txt 
+Done.
